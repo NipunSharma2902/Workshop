@@ -10,6 +10,12 @@ int main(){
      cout<<"Learning git and github";
      cout<<"Basics of git and github";
      cout<<"a";
+     while(1)
+     {
+          a++;
+          cout<<a;
+     }
+     
 
      //This is our first version..
      //second comment.......
